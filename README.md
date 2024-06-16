@@ -11,4 +11,18 @@ a bit of formatting. Thusly, Data1a.CSV was created.
 # Then I loaded up Visual Studios and created a new python application.
 # Installed the necessary libraries (I had to install Python 3.12 via Microsoft Store first).
 # Once the console was ready, I added a folder Data, and transferred the Data1a.CSV to the folder.
-#
+# The Visual Studio environment was not working once I set up some code and tried to execute.
+# This led me to use Google Colab to run the initial small dataset analysis.
+# Colab ran real well. The virualized Pyhton environment ran the test codes well.
+![Screenshot 2024-06-16 122147](https://github.com/BuffaloManwich/CS5530Assign1MB/assets/145368105/a4ea9bf8-211c-48c5-abed-b3449d7b19de)
+
+
+![Screenshot 2024-06-16 122159](https://github.com/BuffaloManwich/CS5530Assign1MB/assets/145368105/06b03115-8fa2-46b5-9a0c-0136eeb80251)
+
+![Screenshot 2024-06-16 122208](https://github.com/BuffaloManwich/CS5530Assign1MB/assets/145368105/991ded48-ac07-447b-9134-05c8e4e3195b)
+
+![Screenshot 2024-06-16 122219](https://github.com/BuffaloManwich/CS5530Assign1MB/assets/145368105/776a4e2c-05ec-4697-8354-e3ac7de5c8c8)
+
+![Screenshot 2024-06-16 122242](https://github.com/BuffaloManwich/CS5530Assign1MB/assets/145368105/135c3943-ab68-489d-9f65-c76776e6b2d1)
+
+# I am going to attempt to run the Part 2 analysis on VSCode.
