@@ -14,8 +14,8 @@ Once the console was ready, I added a folder Data, and transferred the Data1a.CS
 The Visual Studio environment was not working once I set up some code and tried to execute.
 This led me to use Google Colab to run the initial small dataset analysis.
 Colab ran real well. The virualized Pyhton environment ran the test codes well.
-![Screenshot 2024-06-16 122147](https://github.com/BuffaloManwich/CS5530Assign1MB/assets/145368105/a4ea9bf8-211c-48c5-abed-b3449d7b19de)
 
+![Screenshot 2024-06-16 122147](https://github.com/BuffaloManwich/CS5530Assign1MB/assets/145368105/a4ea9bf8-211c-48c5-abed-b3449d7b19de)
 
 ![Screenshot 2024-06-16 122159](https://github.com/BuffaloManwich/CS5530Assign1MB/assets/145368105/06b03115-8fa2-46b5-9a0c-0136eeb80251)
 
@@ -26,3 +26,9 @@ Colab ran real well. The virualized Pyhton environment ran the test codes well.
 ![Screenshot 2024-06-16 122242](https://github.com/BuffaloManwich/CS5530Assign1MB/assets/145368105/135c3943-ab68-489d-9f65-c76776e6b2d1)
 
 I am going to attempt to run the Part 2 analysis on VSCode.
+
+VS Code worked very well in Python!
+
+![Screenshot 2024-06-16 200724](https://github.com/BuffaloManwich/CS5530Assign1MB/assets/145368105/d764f867-51ba-4710-9384-201142a51b96)
+
+As you can see, initializing the main.py file generated many .png and a few .html files.
