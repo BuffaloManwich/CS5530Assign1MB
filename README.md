@@ -26,15 +26,10 @@ Colab ran real well. The virualized Pyhton environment ran the test codes well.
 ![Screenshot 2024-06-16 122242](https://github.com/BuffaloManwich/CS5530Assign1MB/assets/145368105/135c3943-ab68-489d-9f65-c76776e6b2d1)
 
 I am going to attempt to run the Part 2 analysis on VSCode.
-
-![Screenshot 2024-06-16 200724](https://github.com/BuffaloManwich/CS5530Assign1MB/assets/145368105/cff89ca3-9566-4156-9955-ef930f1f33d7)
-
-VS Code worked well. 
-
-
-
 VS Code worked very well in Python!
 
 ![Screenshot 2024-06-16 200724](https://github.com/BuffaloManwich/CS5530Assign1MB/assets/145368105/d764f867-51ba-4710-9384-201142a51b96)
 
 As you can see, initializing the main.py file generated many .png and a few .html files.
+The processes are functionalized in the different .py files. I started the data processing by removing empty values.
+Next, I 
