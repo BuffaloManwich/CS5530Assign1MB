@@ -27,6 +27,12 @@ Colab ran real well. The virualized Pyhton environment ran the test codes well.
 
 I am going to attempt to run the Part 2 analysis on VSCode.
 
+![Screenshot 2024-06-16 200724](https://github.com/BuffaloManwich/CS5530Assign1MB/assets/145368105/cff89ca3-9566-4156-9955-ef930f1f33d7)
+
+VS Code worked well. 
+
+
+
 VS Code worked very well in Python!
 
 ![Screenshot 2024-06-16 200724](https://github.com/BuffaloManwich/CS5530Assign1MB/assets/145368105/d764f867-51ba-4710-9384-201142a51b96)
